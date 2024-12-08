@@ -12,8 +12,8 @@ Follow these steps to get MovieLand running on your local machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/movie-land.git
-    cd movie-land
+    git clone https://github.com/SamarRaboudi/movieLandApp.git
+    cd movieLandApp
     ```
 
 2. Install dependencies:
